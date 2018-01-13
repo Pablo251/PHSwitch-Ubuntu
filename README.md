@@ -22,6 +22,6 @@ If you have troubles with the permissions try to execute it as superuser:
 
 ``sudo ./PHP-Switcher.sh``
 
-### Third Step
+## Third Step
 Select your option and enjoy this little helper
 ![app](https://lh5.googleusercontent.com/vOSwo1Bl5c-TR0CIdn5-eG2lVNH1glefTdSK32Uexn8Ubv3cQ0bhV8qy2F_1STNNqETNjfs3p85NXQ=w1366-h614-rw)
