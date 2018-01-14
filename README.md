@@ -12,16 +12,32 @@ Download the file and execute it as a normal .sh on your computer
 ### How to execute a "***normal .sh***" on my computer???
 First at all open your terminal and locate the downloaded file on your computer, then runs the next.
 
-``chmod +x PHP-Switcher.sh``
+```
+chmod +x PHP-Switcher.sh
+```
 
-``./PHP-Switcher.sh``
+```
+./PHP-Switcher.sh
+```
 
 If you have troubles with the permissions try to execute it as superuser:
 
-``sudo chmod +x PHP-Switcher.sh``
+```
+sudo chmod +x PHP-Switcher.sh
+```
 
-``sudo ./PHP-Switcher.sh``
+```
+sudo ./PHP-Switcher.sh
+```
 
 ## Third Step :wink::+1:
 Select your option and enjoy this little helper
 ![app](https://lh5.googleusercontent.com/vOSwo1Bl5c-TR0CIdn5-eG2lVNH1glefTdSK32Uexn8Ubv3cQ0bhV8qy2F_1STNNqETNjfs3p85NXQ=w1366-h614-rw)
+
+## Authors
+
+* **Jose Pablo Arce**
+
+## Acknowledgments
+
+Thanks a lot to everyone on this [post](https://askubuntu.com/questions/761713/how-can-i-downgrade-from-php-7-to-php-5-6-on-ubuntu-16-04), that was so helpful to create this helper.
