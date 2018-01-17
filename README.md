@@ -32,7 +32,7 @@ sudo ./PHP-Switcher.sh
 
 ## Third Step :wink::+1:
 Select your option and enjoy this little helper
-![app](https://lh5.googleusercontent.com/vOSwo1Bl5c-TR0CIdn5-eG2lVNH1glefTdSK32Uexn8Ubv3cQ0bhV8qy2F_1STNNqETNjfs3p85NXQ=w1366-h614-rw)
+![app](https://drive.google.com/uc?export=view&id=1ahRwaok0JFP3BEhaongKJQBmofb2EvCF)
 
 ## Authors
 
