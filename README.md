@@ -1,4 +1,4 @@
-# PHP-Version-Switch-Ubuntu
+# PHSwitch-Ubuntu
 This is a little .sh script interface that allow switch between PHP 5 and PHP 7 versions on Ubuntu Distros(Over 14.04), executed on your terminal.
 
 ## First Step :v::sweat_smile:
