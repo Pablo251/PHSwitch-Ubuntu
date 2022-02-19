@@ -4,7 +4,7 @@ This is a little .sh script interface that allow switch between PHP 5 and PHP 7 
 ## First Step :v::sweat_smile:
 The switcher currently changes between ***PHP 5*** and ***PHP 7***, for that reason that two version need to be installed on your system. You can found there the installation steps of [PHP 7.0 (and 5.6) on Ubuntu](https://lornajane.net/posts/2016/php-7-0-and-5-6-on-ubuntu).
  
-But to be more on point I recommend follow [THIS ONE](https://askubuntu.com/questions/761713/how-can-i-downgrade-from-php-7-to-php-5-6-on-ubuntu-16-04/762161#762161)
+More accurate Information on this post! [THIS ONE](https://askubuntu.com/questions/761713/how-can-i-downgrade-from-php-7-to-php-5-6-on-ubuntu-16-04/762161#762161)
 
 ## Second Step :metal::sunglasses:
 Download the file and execute it as a normal .sh on your computer
